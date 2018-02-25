@@ -1,0 +1,39 @@
+body {
+  background-color: blue;
+}
+
+.button {
+  color: black;
+  border: 1px dotted black;
+  border-radius: 3px;
+  background-color: red;
+}
+
+.button:hover {
+  color: black;
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: white;
+}
+
+.prijatelji {
+  background-color: white;
+}
+
+h1 {
+  color: red;
+  font-family: Courier;
+  font-size: 34px;
+}
+
+h2 {
+  color: black;
+  font-family: Courier;
+  font-size: 30px;
+}
+
+h3 {
+  color: green;
+  font-family: Courier;
+  font-size: 24px;
+}
